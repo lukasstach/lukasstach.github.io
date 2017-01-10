@@ -184,7 +184,7 @@ footer a:hover { color: #444; }
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 
 a.button,
-a:hover.button {
+a.button:hover {
 	background-image: url(http://www.amway.cz/_img_common/amway_logo_cs.png?20161223095351815);
     background-size: 47%;
     background-repeat: no-repeat;
