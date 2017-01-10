@@ -191,6 +191,7 @@ a#amway:hover {
     padding: 12px 20px 13px 41px;
     float: none;
 	display: inline-block;
+	width: auto;
 }
 
 
